@@ -1,0 +1,52 @@
+/* responsive.css */
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+
+    .section {
+        margin: 2rem 1rem;
+        padding: 1.5rem;
+    }
+
+    .section h1 {
+        font-size: 1.5rem;
+    }
+
+    .profile-img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .project-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .skills-list {
+        justify-content: center;
+    }
+
+    footer {
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .social-links img {
+        width: 25px;
+        height: 25px;
+    }
+
+    .section {
+        padding: 1rem;
+    }
+}

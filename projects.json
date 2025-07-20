@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Slot Machine",
+        "description": "A fun iOS slot machine game with custom animations and random outcomes.",
+        "link": "https://github.com/MykhailoHalchenko/SlotMachineApp-swift",
+        "images": [
+            "portfolio-photos/photo_3_2025-07-20_15-18-28.jpg",
+            "portfolio-photos/photo_4_2025-07-20_15-18-28.jpg",
+            "portfolio-photos/photo_5_2025-07-20_15-18-28.jpg"
+        ]
+    },
+    {
+        "title": "Theme Toggle with Background App Optimization",
+        "description": "App optimizes background processes by tracking screen timeout durations and allows for foreground/background process management to enhance performance in the background.",
+        "link": "https://github.com/MykhailoHalchenko/OFRT_Swift",
+        "images": [
+            "portfolio-photos/photo_1_2025-07-20_15-18-28.jpg"
+        ]
+    },
+    {
+        "title": "Weather App",
+        "description": "A simple weather app with daily forecasts for various cities.",
+        "link": "https://github.com/MykhailoHalchenko/weather-app-swift",
+        "images": [
+            "portfolio-photos/photo_6_2025-07-20_15-18-28.jpg"
+        ]
+    },
+    {
+        "title": "Profile App",
+        "description": "A sleek, SwiftUI-based personal profile app designed to showcase a developer's brief portfolio, personal photo, social links, and stats — all in one clean and stylish interface.",
+        "link": "https://github.com/MykhailoHalchenko/ProfileApp-swift",
+        "images": [
+            "portfolio-photos/photo_2_2025-07-20_15-18-28.jpg"
+        ]
+    }
+]
